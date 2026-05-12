@@ -52,14 +52,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PLASMA-FR&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=PLASMA-FR&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLASMA-FR&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
 
 </div>
 
